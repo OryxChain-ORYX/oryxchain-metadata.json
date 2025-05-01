@@ -1,0 +1,40 @@
+{
+  "project": {
+    "name": "OryxChain",
+    "symbol": "ORYX",
+    "description": "OryxChain (ORYX): Harnessing the spirit of the oryx—resilient, agile, unstoppable—to fuel community-led innovation on the Sui blockchain.",
+    "website": "https://sites.google.com/view/oryxchain-oryx/",
+    "whitepaper": null,
+    "github": null,
+    "socials": {
+      "x": "https://x.com/OryxChainORYX",
+      "discord": "https://discord.gg/2VMFv5DM",
+      "telegram": "https://t.me/+jpLM5X-ZWc8zYzQ0"
+    },
+    "category_tags": [
+      "Web3",
+      "Blockchain",
+      "Token",
+      "Sui",
+      "Community",
+      "Innovation"
+    ],
+    "activity_status": "active",
+    "dapp": false
+  },
+  "coin": {
+    "coinType": "0xc9cecc8bc68150c0fd010a93bc38593293ec8fd0854fc36c20a5bd9619714e3c::oryx::ORYX",
+    "coinName": "OryxChain",
+    "coinSymbol": "ORYX",
+    "decimals": 9,
+    "supply": "10000000000",
+    "imgUrl": "https://avatars.githubusercontent.com/u/209892407?s=400&u=3bee1743c97f3d91077facffa5442294d9e77488&v=4",
+    "relatedProject": "OryxChain",
+    "verificationStatus": "unverified"
+  },
+  "package": {
+    "packageId": "0xc9cecc8bc68150c0fd010a93bc38593293ec8fd0854fc36c20a5bd9619714e3c",
+    "contractName": "oryx",
+    "relatedProject": "OryxChain"
+  }
+}
